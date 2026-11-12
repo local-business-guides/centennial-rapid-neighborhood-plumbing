@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/sitemap.xml
+Sitemap: https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/news-sitemap.xml

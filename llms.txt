@@ -23,6 +23,9 @@
 - [Top Rated Plumber Co Centennial](https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/top-rated-plumber-co-centennial/): Top Rated Plumber Co Centennial: prepare for plumbing help in Centennial, then call Centennial Rapid Neighborhood Plumbing to discuss your concern.
 - [Best Plumber Co near Centennial](https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/best-plumber-co-near-centennial/): Best Plumber Co near Centennial: prepare for a plumbing visit in Centennial, then call Centennial Rapid Neighborhood Plumbing to discuss your concern.
 
+## Newsroom
+- [Centennial Rapid Neighborhood Plumbing Shares New Plumbing Guide](https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/news/2026-11-12-centennial-rapid-neighborhood-plumbing-shares-new/): Centennial Rapid Neighborhood Plumbing has released a guide to Plumber In Centennial CO, with related video and audio formats. (2026-11-12)
+
 ## Pages
 - [Plumber in Centennial, Colorado](https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/): Get a clear starting point for your plumbing needs from a local Centennial business. Call +1720-734-6267.
 - [About and Contact](https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/about/): About Centennial Rapid Neighborhood Plumbing, Centennial.
@@ -30,3 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/centennial-rapid-neighborhood-plumbing/news/rss.xml)
+- [Main resource site](https://centennial-rapid-neighborhood-plumbing.localwebsites.chatgpt.site)
